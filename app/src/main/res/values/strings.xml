@@ -5,4 +5,6 @@
     <string name="todo">TODO</string>
     <string name="landon_us">Landon, US</string>
     <string name="_20_c">20 °C</string>
+    <string name="location">Location</string>
+    <string name="updated_at">Updated at</string>
 </resources>
